@@ -9,9 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e10a9f3f-e3df-4e91-82f2-b003d3d67c79" name="Changes" comment="Controller">
+    <list default="true" id="e10a9f3f-e3df-4e91-82f2-b003d3d67c79" name="Changes" comment="Param GET HttpServletRequest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/denis4ik23/springmvc/config/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/denis4ik23/springmvc/config/controllers/FirstController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -404,7 +405,7 @@
       <workItem from="1672684223374" duration="1729000" />
       <workItem from="1672686245465" duration="3522000" />
       <workItem from="1672777800754" duration="5166000" />
-      <workItem from="1673036636631" duration="654000" />
+      <workItem from="1673036636631" duration="2315000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1670264671231</created>
@@ -441,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672785174270</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Param GET HttpServletRequest">
+      <created>1673037658595</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673037658596</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,6 +472,7 @@
     <MESSAGE value="Hello mvc" />
     <MESSAGE value="Hello mvc java" />
     <MESSAGE value="Controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Controller" />
+    <MESSAGE value="Param GET HttpServletRequest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Param GET HttpServletRequest" />
   </component>
 </project>
