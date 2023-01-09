@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e10a9f3f-e3df-4e91-82f2-b003d3d67c79" name="Changes" comment="Param GET HttpServletRequest">
+    <list default="true" id="e10a9f3f-e3df-4e91-82f2-b003d3d67c79" name="Changes" comment="Param GET RequestParam and required false">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/denis4ik23/springmvc/config/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/denis4ik23/springmvc/config/controllers/FirstController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
@@ -58,6 +58,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;c5611d5c8c9f9e897d6bf480c0e77655&quot;
   }
 }</component>
@@ -405,7 +406,11 @@
       <workItem from="1672684223374" duration="1729000" />
       <workItem from="1672686245465" duration="3522000" />
       <workItem from="1672777800754" duration="5166000" />
-      <workItem from="1673036636631" duration="2315000" />
+      <workItem from="1673036636631" duration="3127000" />
+      <workItem from="1673101302256" duration="127000" />
+      <workItem from="1673101450976" duration="100000" />
+      <workItem from="1673101731891" duration="399000" />
+      <workItem from="1673284062899" duration="1078000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1670264671231</created>
@@ -449,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673037658596</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Param GET RequestParam and required false">
+      <created>1673040464307</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673040464307</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,6 +485,7 @@
     <MESSAGE value="Hello mvc java" />
     <MESSAGE value="Controller" />
     <MESSAGE value="Param GET HttpServletRequest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Param GET HttpServletRequest" />
+    <MESSAGE value="Param GET RequestParam and required false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Param GET RequestParam and required false" />
   </component>
 </project>
